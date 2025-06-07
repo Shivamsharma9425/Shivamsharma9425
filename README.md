@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Sharma.
 - 👀 I’m interested in learning new skills and technologies.
 - 🌱 I’m currently pursuing Graduation in B.Tech -CSE.
-- 💞️ I’m looking to collaborate on web development projects/ software.
+- 💞️ I’m looking to collaborate on AI/ML projects/ software.
 - 📫 You can reach me with: shivamblink2@gmail.com
 - 😄 Pronouns: He
 
